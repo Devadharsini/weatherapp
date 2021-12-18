@@ -1,6 +1,8 @@
 # Weatherweb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+URL to the directory where Angular project source code resides:   https://github.com/Devadharsini/weatherapp/tree/main/src/app
+URL of your deployed Angular app:  http://localhost:4200/
 
 ## Development server
 
